@@ -1,0 +1,19 @@
+{
+  "_id": "page.correspondence",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.correspondence--date.auto_name__4",
+      "_type": "date",
+      "legend": "Date",
+      "name": "form_date"
+    },
+    {
+      "_id": "page.correspondence--textarea.auto_name__5",
+      "_type": "textarea",
+      "label": "Description",
+      "name": "description"
+    }
+  ],
+  "url": "correspondence"
+}
