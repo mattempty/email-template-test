@@ -19,6 +19,11 @@
       "_type": "email",
       "label": "Email Address",
       "name": "email_address"
+    },
+    {
+      "_id": "page.name--hidden.auto_name__1",
+      "_type": "hidden",
+      "name": "auto_name__1"
     }
   ],
   "heading": "Name",

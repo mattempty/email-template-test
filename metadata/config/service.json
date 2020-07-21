@@ -2,6 +2,15 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
+  "attachUserSubmission": true,
+  "code": "ETD01",
+  "emailInputNameUser": "email_address",
   "emailSubjectTeam": "test email for {service_name}",
-  "emailTemplateTeam": "**Form team email template**\r\nThis email has the data entered from the completed form and other things to test.\r\nfirst_name: {first_name}\r\nlast_name: {last_name}\r\nemail_address: {email_address}\r\nform_date: {form_date}\r\ndescription: {description}\r\ntodays_date: {getDate()}\r\n\r\n\r\n\r\n"
+  "emailSubjectUser": "Email Text Demo - cc email subject",
+  "emailTemplateTeam": "**Form team email template**\r\nThis email has the data entered from the completed form and other things to test.\r\nfirst_name: {first_name}\r\nlast_name: {last_name}\r\nemail_address: {email_address}\r\nform_date: {form_date}\r\ndescription: {description}\r\ntodays_date: {getDate()}\r\n\r\n\r\n\r\n",
+  "emailTemplateUser": "**cc email template** \r\nThis email has the data entered from the completed form and other things to test. \r\n\r\nfirst_name: {first_name} last_name: {last_name} email_address: {email_address} form_date: {form_date} description: {description} todays_date: {getDate()}",
+  "name": "Email Text Demo",
+  "pdfHeading": "Email Text Demo - PDF heading",
+  "pdfSubHeading": "Email Text Demo - PDF subheading",
+  "sessionDuration": 20
 }
