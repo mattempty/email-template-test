@@ -1,0 +1,38 @@
+{
+  "_id": "page.test",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.test--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
+          "_id": "page.test--fieldset--checkboxes",
+          "_type": "checkboxes",
+          "items": [
+            {
+              "_id": "page.test--fieldset--checkboxes--checkbox.auto_name__2",
+              "_type": "checkbox",
+              "label": "yes",
+              "name": "auto_name__2"
+            },
+            {
+              "_id": "page.test--fieldset--checkboxes--checkbox.auto_name__3",
+              "_type": "checkbox",
+              "label": "no",
+              "name": "auto_name__3"
+            }
+          ],
+          "validation": {
+            "required": true
+          }
+        }
+      ],
+      "legend": "test"
+    }
+  ],
+  "url": "test"
+}

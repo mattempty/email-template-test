@@ -6,6 +6,7 @@
   "steps": [
     "page.name",
     "page.correspondence",
+    "page.test",
     "page.check_answers",
     "page.confirm"
   ],
