@@ -17,21 +17,22 @@
               "_id": "page.test--fieldset--checkboxes--checkbox.auto_name__2",
               "_type": "checkbox",
               "label": "yes",
-              "name": "auto_name__2"
+              "name": "checked_yes"
             },
             {
               "_id": "page.test--fieldset--checkboxes--checkbox.auto_name__3",
               "_type": "checkbox",
               "label": "no",
-              "name": "auto_name__3"
+              "name": "checked_no"
             }
           ],
+          "legend": "false",
           "validation": {
             "required": true
           }
         }
       ],
-      "legend": "test"
+      "legend": "Do you link checkbox options?"
     }
   ],
   "url": "test"
