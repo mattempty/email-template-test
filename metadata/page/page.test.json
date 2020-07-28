@@ -3,36 +3,26 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.test--fieldset",
-      "_type": "fieldset",
-      "components": [
+      "_id": "page.test--checkboxes",
+      "_type": "checkboxes",
+      "items": [
         {
-          "$component": true,
-          "$control": true,
-          "$definition": true,
-          "_id": "page.test--fieldset--checkboxes",
-          "_type": "checkboxes",
-          "items": [
-            {
-              "_id": "page.test--fieldset--checkboxes--checkbox.auto_name__2",
-              "_type": "checkbox",
-              "label": "yes",
-              "name": "checked_yes"
-            },
-            {
-              "_id": "page.test--fieldset--checkboxes--checkbox.auto_name__3",
-              "_type": "checkbox",
-              "label": "no",
-              "name": "checked_no"
-            }
-          ],
-          "legend": "false",
-          "validation": {
-            "required": true
-          }
+          "_id": "page.test--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "Yes",
+          "name": "checked_yes"
+        },
+        {
+          "_id": "page.test--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "No",
+          "name": "checked_no"
         }
       ],
-      "legend": "Do you link checkbox options?"
+      "legend": "Do you like checkboxes?",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "url": "test"
