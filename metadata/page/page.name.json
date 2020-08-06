@@ -24,6 +24,11 @@
       "_id": "page.name--hidden.auto_name__1",
       "_type": "hidden",
       "name": "auto_name__1"
+    },
+    {
+      "_id": "page.name--hidden.auto_name__2",
+      "_type": "hidden",
+      "name": "auto_name__2"
     }
   ],
   "heading": "Name",
