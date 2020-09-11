@@ -7,7 +7,7 @@
   "emailInputNameUser": "",
   "emailSubjectTeam": "Email Text Demo",
   "emailSubjectUser": "Email Text Demo - cc email subject",
-  "emailTemplateTeam": "{first_name}\r\n{last_name}\r\n{email_address}\r\n{address_1}\r\n{address_2}\r\n{address_3}\r\n{postcode}\r\n{form_date}\r\n{description}\r\n{checked_yes}\r\n{checked_no}\r\n\r\n",
+  "emailTemplateTeam": "\r\n{description}\r\n\r\n{first_name} {last_name} - {email_address}\r\n{address_1}\r\n{address_2}\r\n{address_3}\r\n{postcode}",
   "emailTemplateUser": "This is the template for the cc email\r\n",
   "name": "Email Text Demo",
   "pdfHeading": "Email Text Demo - PDF heading",
