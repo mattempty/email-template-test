@@ -17,8 +17,12 @@
     {
       "_id": "page.name--email.auto_name__3",
       "_type": "email",
+      "hint": "Not mandatory",
       "label": "Email Address",
-      "name": "email_address"
+      "name": "email_address",
+      "validation": {
+        "required": false
+      }
     },
     {
       "_id": "page.name--hidden.auto_name__1",
