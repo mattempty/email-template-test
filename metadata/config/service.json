@@ -4,7 +4,7 @@
   "_type": "config.service",
   "attachUserSubmission": false,
   "code": "ETD01",
-  "emailInputNameUser": "{email_address},{email_address_other}",
+  "emailInputNameUser": "{email_address}, {email_address_other}",
   "emailSubjectTeam": "Email Text Demo",
   "emailSubjectUser": "Email Text Demo - cc email subject",
   "emailTemplateTeam": "\r\n{description}\r\n\r\n{first_name} {last_name} - {email_address}\r\n{address_1}\r\n{address_2}\r\n{address_3}\r\n{postcode}",
