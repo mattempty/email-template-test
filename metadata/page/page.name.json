@@ -33,6 +33,15 @@
       "_id": "page.name--hidden.auto_name__2",
       "_type": "hidden",
       "name": "auto_name__2"
+    },
+    {
+      "_id": "page.name--email.auto_name__5",
+      "_type": "email",
+      "label": "Other email address",
+      "name": "auto_name__5",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "Name",
