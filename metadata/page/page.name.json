@@ -38,7 +38,7 @@
       "_id": "page.name--email.auto_name__5",
       "_type": "email",
       "label": "Other email address",
-      "name": "auto_name__5",
+      "name": "email_address_other",
       "validation": {
         "required": false
       }
