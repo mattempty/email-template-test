@@ -7,7 +7,7 @@
   "emailInputNameUser": "",
   "emailSubjectTeam": "Email Text Demo",
   "emailSubjectUser": "Email Text Demo - cc email subject",
-  "emailTemplateTeam": "\r\n{description}\r\n\r\n{first_name} {last_name} - {email_address}\r\n{address_1}\r\n{address_2}\r\n{address_3}\r\n{postcode}",
+  "emailTemplateTeam": "# {description}\r\n\r\nAs Grace Hopper said:\r\n> I’ve always been more interested\r\n> in the future than in the past.\r\n\r\n{first_name} {last_name} - {email_address}\r\n{address_1}\r\n{address_2}\r\n{address_3}\r\n{postcode}\r\n\r\n- [x] this is a complete item\r\n- [ ] this is an incomplete item\r\n- [x] @mentions, #refs, [links](),\r\n**formatting**, and <del>tags</del>\r\nsupported\r\n- [x] list syntax required (any\r\nunordered or o",
   "emailTemplateUser": "This is the template for the cc email\r\n",
   "name": "Email Text Demo",
   "pdfHeading": "Email Text Demo - PDF heading",
