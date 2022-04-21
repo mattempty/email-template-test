@@ -17,11 +17,11 @@
     {
       "_id": "page.name--email.auto_name__3",
       "_type": "email",
-      "hint": "Not mandatory",
+      "hint": "",
       "label": "Email Address",
       "name": "email_address",
       "validation": {
-        "required": false
+        "required": true
       }
     },
     {
