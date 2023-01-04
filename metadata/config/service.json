@@ -7,7 +7,7 @@
   "emailInputNameUser": "email_address",
   "emailSubjectTeam": "Email Text Demo",
   "emailSubjectUser": "Email Text Demo - cc email subject",
-  "emailTemplateTeam": "# {description}\r\n\r\nAs Grace Hopper said:\r\n> I’ve always been more interested\r\n> in the future than in the past.\r\n\r\n{first_name} {last_name} - {email_address}\r\n{address_1}\r\n{address_2}\r\n{address_3}\r\n{postcode}\r\n\r\n- [x] this is a complete item\r\n- [ ] this is an incomplete item\r\n- [x] @mentions, #refs, [links](),\r\n**formatting**, and <del>tags</del>\r\nsupported\r\n- [x] list syntax required \r\n\r\n\r\n![test image](https://fb-publisher-test.apps.live-1.cloud-platform.service.justice.gov.uk/assets/gov.uk_logotype_crown_invert_trans-821c2d8a39833634ab50e3bfd706ddc63339cdb5ba5436171f855c2d11aeb887.png)\r\n\r\n\r\n\r\n",
+  "emailTemplateTeam": "# {description}\r\n\r\nAs Grace Hopper said:\r\n> I’ve always been more interested\r\n> in the future than in the past.\r\n",
   "emailTemplateUser": "This is the template for the cc email\r\n",
   "name": "Email Text Demo",
   "pdfHeading": "Email Text Demo - PDF heading",

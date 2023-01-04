@@ -2,13 +2,10 @@
   "_id": "page.start",
   "_type": "page.start",
   "heading": "Test Form",
-  "lede": "This form collects the data entered and in the email body.",
+  "lede": "This form collects the data and uses the API endpoint for testing.",
   "steps": [
     "page.name",
     "page.correspondence",
-    "page.address",
-    "page.test",
-    "page.why",
     "page.check_answers",
     "page.confirm"
   ],

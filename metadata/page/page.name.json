@@ -3,18 +3,20 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.name--text.auto_name__1",
       "_type": "text",
-      "label": "First Name",
+      "label": "Name",
       "name": "first_name"
     },
     {
-      "_id": "page.name--text.auto_name__2",
-      "_type": "text",
-      "label": "Last Name",
-      "name": "last_name"
-    },
-    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.name--email.auto_name__3",
       "_type": "email",
       "hint": "",
@@ -25,23 +27,18 @@
       }
     },
     {
+      "$component": true,
+      "$definition": true,
       "_id": "page.name--hidden.auto_name__1",
       "_type": "hidden",
       "name": "auto_name__1"
     },
     {
+      "$component": true,
+      "$definition": true,
       "_id": "page.name--hidden.auto_name__2",
       "_type": "hidden",
       "name": "auto_name__2"
-    },
-    {
-      "_id": "page.name--email.auto_name__5",
-      "_type": "email",
-      "label": "Other email address",
-      "name": "email_address_other",
-      "validation": {
-        "required": false
-      }
     }
   ],
   "heading": "Name",
